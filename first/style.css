@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #d8d8d8;
+}
+header {
+	height: 160px;
+	background-color: #444444;
+}
+.wrap {
+	max-width: 700px;
+	margin: 0 auto;
+}
+.main-content {
+	min-height: 760px;
+	background-color: white;
+}
+footer {
+	min-height: 80px;
+	background-color: #222222;
+}
